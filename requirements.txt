@@ -1,0 +1,7 @@
+sqlalchemy
+requests
+pyodbc
+apscheduler
+pywin32
+xmltodict
+pytz
